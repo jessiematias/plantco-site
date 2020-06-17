@@ -70,6 +70,6 @@ p {
   margin-left: 1.5rem;
   display: flex;
   align-items: center;
-  color: red;
+  color: ${colors.peach};
 }
 `

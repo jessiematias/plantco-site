@@ -20,7 +20,7 @@ function App() {
       <Switch>
       <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
       <Route path='/plants-accessories' component={LivePlants} />
-      <Route exact path='/checkout' component={Checkout} />
+      <Route path='/checkout' component={Checkout} />
       </Switch> 
     </ScrollToTop>
   )
