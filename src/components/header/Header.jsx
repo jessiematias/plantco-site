@@ -19,7 +19,7 @@ const Header = ({hidden}) => (
     </div>
     <NavBarItemsContainer>
     <StyledLink exact to='/'> 
-        <NavBarItem>HOME</NavBarItem>
+        <NavBarItem style={{color: 'pink'}}>HOME</NavBarItem>
       </StyledLink>
 
       <StyledLink to='/plants-accessories'>
