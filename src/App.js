@@ -11,7 +11,6 @@ import LivePlants from './pages/Shop';
 import ScrollToTop from 'react-router-scroll-top'
 import Checkout from './pages/checkout/Checkout';
 
-
 function App() {
   return (
       <ScrollToTop>
