@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dae060d735c74aa176784357c8ac2305",
+    "revision": "3a2528a7bb28562fde5b6b9e560953d2",
     "url": "/plantco-site/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plantco-site/static/js/2.095764cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dc6388aae070bfec9ac",
-    "url": "/plantco-site/static/js/main.048a1f81.chunk.js"
+    "revision": "5b0968ce9bb135da49bf",
+    "url": "/plantco-site/static/js/main.7f81c7d5.chunk.js"
   },
   {
     "revision": "0f046b846c4ad5fe7d97",
