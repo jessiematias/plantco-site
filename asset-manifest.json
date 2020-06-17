@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/plantco-site/static/js/main.cd1faee3.chunk.js",
+    "main.js.map": "/plantco-site/static/js/main.cd1faee3.chunk.js.map",
+    "runtime-main.js": "/plantco-site/static/js/runtime-main.2a0d2115.js",
+    "runtime-main.js.map": "/plantco-site/static/js/runtime-main.2a0d2115.js.map",
+    "static/js/2.04448726.chunk.js": "/plantco-site/static/js/2.04448726.chunk.js",
+    "static/js/2.04448726.chunk.js.map": "/plantco-site/static/js/2.04448726.chunk.js.map",
+    "index.html": "/plantco-site/index.html",
+    "precache-manifest.88b0d460571d1c4f4f73607d6e290122.js": "/plantco-site/precache-manifest.88b0d460571d1c4f4f73607d6e290122.js",
+    "service-worker.js": "/plantco-site/service-worker.js",
+    "static/js/2.04448726.chunk.js.LICENSE.txt": "/plantco-site/static/js/2.04448726.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/plantco-site/static/media/arrow.d3b7ab1a.svg",
+    "static/media/firstpage1.jpg": "/plantco-site/static/media/firstpage1.2f94e647.jpg",
+    "static/media/firstpage2.jpg": "/plantco-site/static/media/firstpage2.3a677f6a.jpg",
+    "static/media/leaf.svg": "/plantco-site/static/media/leaf.f98c4e8e.svg",
+    "static/media/plants_beginners.jpg": "/plantco-site/static/media/plants_beginners.dfa2296a.jpg",
+    "static/media/shopping-bag.30f07071.svg": "/plantco-site/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a0d2115.js",
+    "static/js/2.04448726.chunk.js",
+    "static/js/main.cd1faee3.chunk.js"
+  ]
+}
