@@ -15,7 +15,7 @@ import Checkout from './pages/checkout/Checkout';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <ScrollToTop>
       <GlobalStyles />
       <Header />
