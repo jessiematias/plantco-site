@@ -1,6 +1,5 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
@@ -15,7 +14,6 @@ import Checkout from './pages/checkout/Checkout';
 
 function App() {
   return (
-    <Router>
       <ScrollToTop>
       <GlobalStyles />
       <Header />
@@ -26,7 +24,6 @@ function App() {
       <Route exact path='/checkout' component={Checkout} />
       </Switch> 
     </ScrollToTop>
-    </Router>
   )
 }
 
