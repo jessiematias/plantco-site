@@ -1,0 +1,25 @@
+import { default as styled } from "styled-components";
+
+export const StyledCartItem = styled.div`
+width: 100%;
+  display: flex;
+  height: 8rem;
+  margin-bottom: 1.5rem;
+
+  img {
+    width: 30%;
+  }
+
+  .item-details {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem;
+
+    .name {
+      font-size: 1.6rem;
+    }
+  }
+`
