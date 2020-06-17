@@ -18,7 +18,7 @@ const Header = ({hidden}) => (
       <LogoContainer><p><Logo />PLANTCO</p></LogoContainer>   
     </div>
     <NavBarItemsContainer>
-    <StyledLink exact to={process.env.PUBLIC_URL + '/'}> 
+    <StyledLink exact to='/'> 
         <NavBarItem>HOME</NavBarItem>
       </StyledLink>
 

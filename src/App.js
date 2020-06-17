@@ -18,7 +18,7 @@ function App() {
       <Header />
       <BurgerMenu />
       <Switch>
-      <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
+      <Route exact path='/' component={Home} />
       <Route path='/plants-accessories' component={LivePlants} />
       <Route path='/checkout' component={Checkout} />
       </Switch> 
