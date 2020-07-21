@@ -25,7 +25,7 @@ const SHOP_DATA = [
         {
           id: 5,
           name: 'Olmsted x Parlor Palm',
-          imageUrl: 'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_parlor-palm_variant_small_olmsted_cream_450293e9-08a8-4436-ab2c-84c43f6867a2_900x.jpg',
+          imageUrl: 'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_parlor-palm_variant_small_grant_cream_1440x.jpg?v=1593209968',
           price: 35
         },
         {
