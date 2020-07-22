@@ -53,12 +53,12 @@ const SHOP_DATA = [
           imageUrl: 'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_burbank-planter-fiberglass-tabletop-planter_variant_medium_white_900x.jpg',
           price: 80
         },
-        {
-          id: 10,
-          name: 'Lightweight Wall Planter',
-          imageUrl: 'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_beatrix-planter_variant_small_all_900x.jpg',
-          price: 40
-        },
+        // {
+        //   id: 10,
+        //   name: 'Lightweight Wall Planter',
+        //   imageUrl: 'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_beatrix-planter_variant_small_all_900x.jpg',
+        //   price: 40
+        // },
         {
           id: 11,
           name: 'Dolores Planter',
