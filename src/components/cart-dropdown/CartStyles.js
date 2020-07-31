@@ -18,7 +18,8 @@ export  const CartDropdown = styled.div`
     height: 240px;
     display: flex;
     flex-direction: column;
-    overflow: scroll;
+    overflow: auto;
+    margin: 0;
   }
   .empty-message {
     font-size: 1.4rem;
